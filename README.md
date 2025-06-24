@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @prachitibapat
-- 👀 I’m interested in Machine learning and Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on NA
-- 📫 How to reach me linkedin:Prachiti Bapat
+# Prachiti Bapat
 
-<!---
-prachitibapat/prachitibapat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MS CS @ USC • SDE Intern @ Amazon  
+Passionate about backend systems, cloud infra, and AI-powered tools.
+
+**Tech Stack:** Java • Python • C++ • AWS • Docker • Django • React • SQL • Git
+
+📫 [LinkedIn](https://www.linkedin.com/in/prachiti-bapat) • [GitHub](https://github.com/prachitibapat) • [Email](mailto:ppbapat29@gmail.com)
